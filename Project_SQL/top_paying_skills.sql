@@ -20,4 +20,4 @@ WHERE
 GROUP BY
     skills
 ORDER BY    
-    average_salary DESC
+    average_salary DESC;
